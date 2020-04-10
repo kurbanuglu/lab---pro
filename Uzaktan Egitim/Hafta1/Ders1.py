@@ -1,4 +1,4 @@
-"""1 Nisan 2020 - Elif CELIK
+NAJMUDDİN QURBANUGHLİ 
 
 Subjects
    1. Generate list with n items
