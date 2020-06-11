@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 NAJMUDDİN QURBANUGHLİ  :160401081
-Ders videoları kodlarının GitHub linki : https://github.com/eelifcelik/Programlama-Lab/tree/master/Uzaktan%20Egitim/Hafta4
 
 **min_heapify: Bir array ve i indisi alarak bu arraydaki i indisine kadar olanları heap yapısı olarak düzenliyor.
 
